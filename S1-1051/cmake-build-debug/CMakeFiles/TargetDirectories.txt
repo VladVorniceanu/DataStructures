@@ -1,0 +1,3 @@
+/Users/vladvorniceanu/Library/Mobile Documents/com~apple~CloudDocs/Facultate/AN 3/Semestul 2/DataStructures/S1-1051/cmake-build-debug/CMakeFiles/S1.dir
+/Users/vladvorniceanu/Library/Mobile Documents/com~apple~CloudDocs/Facultate/AN 3/Semestul 2/DataStructures/S1-1051/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladvorniceanu/Library/Mobile Documents/com~apple~CloudDocs/Facultate/AN 3/Semestul 2/DataStructures/S1-1051/cmake-build-debug/CMakeFiles/rebuild_cache.dir
